@@ -4,4 +4,4 @@ function nextPal(val) {
         return i
       }
     }
-  }
+  } 
