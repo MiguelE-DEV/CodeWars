@@ -1,2 +1,2 @@
 # CodeWars
-Daily CodeWar Challenge Soltutions
+CodeWar Challenge Soltutions
