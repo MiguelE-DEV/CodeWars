@@ -8,4 +8,4 @@ function shortcut (string) {
       }
     }
     return arr.join('');
-  }
+  } 
